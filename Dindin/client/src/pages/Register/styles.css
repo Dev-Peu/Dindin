@@ -1,0 +1,16 @@
+.register {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/backgrounds/bg1.png");
+
+  padding: 40px 100px;
+  flex-direction: column;
+}
+
+.register main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+}
